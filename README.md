@@ -19,3 +19,4 @@ Works on Windows, macOS, and Linux 🖥️🐧🍏
 SecureNest is perfect for anyone who values simplicity, security, and control over their passwords without relying on external services.
 
 Created with ❤️ by Fsolution.-Dev
+![ChatGPT Image Apr 19, 2025, 11_53_26 AM](https://github.com/user-attachments/assets/81b04996-72a0-47f0-8c5f-3d158347af29)
